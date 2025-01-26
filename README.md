@@ -1,114 +1,48 @@
 # 30-Day Full Stack Project-Based Coding Challenge
 
-Welcome to the 30-Day Full Stack Challenge! Below you'll find resources for each day, with links to tutorials, documentation, and guides. This guide will help you follow the schedule and access the necessary learning materials quickly.
+Refer [Daily Challenges for each day works](DAILY_CHALLENGE.md)
 
----
+## Overview
 
-## Week 1: Frontend Basics (HTML, CSS, JavaScript)
 
-### **Day 1-2: HTML Basics**
-- [MDN Web Docs: HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [FreeCodeCamp: Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+## Daily Challenge
 
-### **Day 3-4: CSS Basics**
-- [MDN Web Docs: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-- [FreeCodeCamp: Learn CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-by-building-a-cafe-menu)
+Each day, you will be presented with a new project or task that focuses on different aspects of full stack development. These challenges will cover a wide range of topics, including:
 
-### **Day 5-6: JavaScript Basics**
-- [JavaScript.info: The Modern JavaScript Tutorial](https://javascript.info/getting-started)
-- [FreeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+- Frontend development (HTML, CSS, JavaScript, React, etc.)
+- Backend development (Node.js, Express, databases, etc.)
+- API development and integration
+- DevOps and deployment
+- Testing and debugging
 
-### **Day 7: JavaScript Practice Project**
-- **Project**: Build a Simple Quiz App using DOM Manipulation  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
 
----
+## How to Participate
+1. **Fork the Repository**: Fork the challenge repository on GitHub to your own account.
+2. **Daily Emails**: You will receive a daily email with the details of the challenge for that day.
+3. **Complete the Challenge**: Work on the project or task provided for the day. You can use any tools or technologies you are comfortable with.
+4. **Share Your Progress**: Share your progress on social media using the hashtag #30DayFullStackChallenge. You can also join our community forum to discuss the challenges and get help from other participants.
+5. **Submit Your Work**: At the end of each day, submit your work by sending a pull request to the respective folder under your username in our repository.
 
-## Week 2: Moving to MERN Stack
+## How to Contribute Your Progress
+1. **Create a New Branch**: Create a new branch in your forked repository for each day's challenge.
+2. **Work on the Challenge**: Complete the challenge on your new branch.
+3. **Commit Your Changes**: Commit your changes with a meaningful message describing what you have done.
+4. **Push to GitHub**: Push your branch to your forked repository on GitHub.
+5. **Open a Pull Request**: Open a pull request from your branch to the main repository's respective folder under your username.
+6. **Review and Merge**: Once your pull request is reviewed and approved, it will be merged into the main repository.
 
-### **Day 8: Introduction to React**
-- [React Official Docs: Main Concepts](https://react.dev/learn)
-- [Scrimba: Learn React for Free](https://scrimba.com/learn/learnreact)
 
-### **Day 9-10: React Hooks and State Management**
-- [React Official Docs: State and Lifecycle](https://react.dev/learn/state-a-component-s-memory)
-- [Net Ninja React Hooks Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcij6b3aU9p)
 
-### **Day 11-12: Backend with Node.js and Express**
-- [The Odin Project: Node.js Basics](https://www.theodinproject.com/lessons/nodejs-node-js-basics)
-- [MDN Web Docs: Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+## Community and Support
 
-### **Day 13: MongoDB Basics**
-- [MongoDB University: M001 - Basics](https://university.mongodb.com/courses/M001/about)
-- [Mongoose Documentation](https://mongoosejs.com/docs/guide.html)
+Join our community forum to connect with other participants, ask questions, and share your progress. You can also join the [Clean Code Academy Telegram channel](https://t.me/cleancodeacademy) where you can ask questions and get support. Our team of mentors and moderators will be available to provide support and guidance throughout the challenge.
 
-### **Day 14: Build a To-Do List App (CRUD)**
-- **Project**: Build a Full-Stack To-Do List App  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=E1E08i2UJGI)
+## Code of Conduct
 
----
+We are committed to providing a friendly, safe, and welcoming environment for all participants. Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Week 3: Enhancing Skills with Advanced Features
+## Contact Us
 
-### **Day 15-16: User Authentication with JWT**
-- [FreeCodeCamp: JWT Authentication Tutorial](https://www.freecodecamp.org/news/how-to-securely-implement-jwt-authentication-in-node-js/)
-- [YouTube: JWT Authentication in React & Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)
+If you have any questions or need assistance, please contact us at support@example.com.
 
-### **Day 17: API Integration**
-- [Axios Documentation](https://axios-http.com/docs/intro)
-- [RapidAPI: Learn API Integration](https://rapidapi.com/learn-api)
-
-### **Day 18: Build a Weather Dashboard App**
-- **Project**: Display weather data dynamically  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=WZNG8UomjSI)
-
-### **Day 19-20: MongoDB and Advanced CRUD**
-- [MongoDB Docs: CRUD Operations](https://www.mongodb.com/docs/manual/crud/)
-- [Net Ninja: MongoDB Crash Course](https://www.youtube.com/watch?v=ofme2o29ngU)
-
-### **Day 21: Build a URL Shortener**
-- **Project**: Create a URL shortener with Express and MongoDB  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=49wLRpIAzXU)
-
----
-
-## Week 4: Full-Stack Projects and Deployment
-
-### **Day 22: Frontend Deployment**
-- [Netlify Deployment Guide](https://docs.netlify.com/get-started/)
-- [Vercel Deployment Guide](https://vercel.com/docs)
-
-### **Day 23: Backend Deployment**
-- [Render Deployment Guide](https://render.com/docs)
-- [Heroku Deployment Guide](https://devcenter.heroku.com/start)
-
-### **Day 24-25: E-Commerce Product Listing**
-- **Project**: Build an e-commerce product listing page  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=9MMgXf-Yfdw)
-
-### **Day 26: Build a Habit Tracker App**
-- **Project**: Track user habits and completion status  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=ZX3qt0UWifc)
-
-### **Day 27: Real-Time Chat Application with Socket.IO**
-- [Socket.IO Docs](https://socket.io/get-started/chat/)
-- [YouTube Tutorial](https://www.youtube.com/watch?v=Oe421EPjeBE)
-
-### **Day 28: Build a Real-Time Chat App**
-- Continue the Socket.IO chat app from Day 27 or add advanced features like user authentication.
-
-### **Days 29-30: Final Project and Showcase**
-- **Poll Voting App**: Build an app where users can vote on polls and view results  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=-wltqp7x6lg)
-
-- **File Upload App**: Build an app to upload and manage files  
-  [YouTube Tutorial](https://www.youtube.com/watch?v=hl1U0bxTHbY)
-
----
-
-## Final Notes
-1. **Track Your Progress**: Commit daily to GitHub and share your repository links.
-2. **Ask for Help**: Join the community or ask your instructor if you're stuck.
-3. **Collaborate**: For the final project, work in teams (2-3 members) or individually if necessary.
-
-Good luck, and remember: **Every end marks a new beginning!**
+Good luck and happy coding!
