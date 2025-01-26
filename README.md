@@ -43,6 +43,6 @@ We are committed to providing a friendly, safe, and welcoming environment for al
 
 ## Contact Us
 
-If you have any questions or need assistance, please contact us at support@example.com.
+If you have any questions or need assistance, please contact us at acleancode@gmail.com.
 
 Good luck and happy coding!
