@@ -31,7 +31,6 @@ Welcome to the 30-Day Full Stack Challenge! Below you'll find resources for each
 - [Scrimba: Learn React for Free](https://scrimba.com/learn/learnreact)
 
 ### **Day 9-10: React Hooks and State Management**
-- [React Official Docs: State and Lifecycle](https://react.dev/learn/state-a-component-s-memory)
 - [Net Ninja React Hooks Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcij6b3aU9p)
 
 ### **Day 11-12: Backend with Node.js and Express**
@@ -51,7 +50,7 @@ Welcome to the 30-Day Full Stack Challenge! Below you'll find resources for each
 ## Week 3: Enhancing Skills with Advanced Features
 
 ### **Day 15-16: User Authentication with JWT**
-- [FreeCodeCamp: JWT Authentication Tutorial](https://www.freecodecamp.org/news/how-to-securely-implement-jwt-authentication-in-node-js/)
+- [JWT Authentication in Node.js: A Practical Guide](https://dvmhn07.medium.com/jwt-authentication-in-node-js-a-practical-guide-c8ab1b432a49/)
 - [YouTube: JWT Authentication in React & Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)
 
 ### **Day 17: API Integration**
